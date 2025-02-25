@@ -55,11 +55,6 @@ Analyze AirBnB listings in Paris to determine the impact of recent regulations.
 * **Task 12: BONUS: Create a dual axis line chart to show both new hosts and average price over time**
     * Create a dual axis line chart from the paris_listings_over_time table.
 
-### Final Step
-
-* **Final Project Question:**
-    * Which neighborhood in Paris has the highest average AirBnB listing price?
-
 
 ## Project Organization
 
